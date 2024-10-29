@@ -1,4 +1,4 @@
-## [Clone Netflix](.Html/Clone Netflix)
+## [Clone Netflix](./Html/Clone Netflix)
 
 ### Stack utilizada
 ***Front-end:*** HTML e CSS

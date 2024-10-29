@@ -1,5 +1,4 @@
-# Clone Netflix 
-
+## [Clone Netflix](./Html/Clone%20Netflix)
 Este projeto é uma recriação simplificada da página inicial da Netflix usando HTML e CSS. O objetivo é replicar o layout e alguns aspectos de estilo para entender melhor os princípios de design e estruturação de interfaces, parte do desafio **7 Days of Code - HTML** proposto para aprimorar habilidades de desenvolvimento front-end.
 
 ## 📋 Funcionalidades
@@ -12,7 +11,7 @@ Este projeto é uma recriação simplificada da página inicial da Netflix usand
 - HTML5
 - CSS3
 
-# Calculadora HTML
+## [Calculadora HTML](./Html/Calculadora%20Html)
 
 Este projeto é uma simples calculadora desenvolvida com HTML, CSS e JavaScript.
 
